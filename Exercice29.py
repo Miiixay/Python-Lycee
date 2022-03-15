@@ -23,4 +23,3 @@ for ligne in tableau:
   for car in ligne:
     aff+=car+' '
   print(aff)
-  print(aff)
